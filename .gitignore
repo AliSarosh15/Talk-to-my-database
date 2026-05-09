@@ -1,10 +1,8 @@
-# Python
+# Python cache
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
+*.py[cod]
 
-# Virtual Environment
+# Virtual environments
 dbenv/
 venv/
 env/
@@ -12,7 +10,7 @@ env/
 # Environment variables
 .env
 
-# Node
+# Node modules
 node_modules/
 
 # OS files
